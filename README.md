@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="http://www.github.com/4thend4m"><img align='left' src="https://github-readme-stats.vercel.app/api?username=4thend4m&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&show_icons=true" alt="4thend4m's GitHub stats" /></a>
-  <a href="http://www.github.com/4thend4m"><img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=4thend4m&stroke=ffffff&background=0a0e12&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/4thend4m" align="left"><img align='center' valign='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thend4m&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used languages" /></a>
+  <a href="http://www.github.com/4kauanmota"><img align='left' src="https://github-readme-stats.vercel.app/api?username=4kauanmota&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&show_icons=true" alt="4kauanmota's GitHub stats" /></a>
+  <a href="http://www.github.com/4kauanmota"><img align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=4kauanmota&stroke=ffffff&background=0a0e12&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/4kauanmota" align="left"><img align='center' valign='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kauanmota&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used languages" /></a>
  </div>
 
 <div align="center" valign="top"><br>
@@ -23,14 +23,14 @@
   
 <br>
 
-<a href="http://www.github.com/4thend4m">
-  <img src="https://activity-graph.herokuapp.com/graph?username=4thend4m&bg_color=0a0e12&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<a href="http://www.github.com/4kauanmota">
+  <img src="https://activity-graph.herokuapp.com/graph?username=4kauanmota&bg_color=0a0e12&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>  
   
 <!--
 <div align="center"> 
   
-  ![Snake animation](https://github.com/4thend4m/4thend4m/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/4kauanmota/4kauanmota/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 -->
