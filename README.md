@@ -22,16 +22,9 @@
 </div>
   
 <br>
-
-<a href="http://www.github.com/4kauanmota">
-  <img src="https://activity-graph.herokuapp.com/graph?username=4kauanmota&bg_color=0a0e12&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>  
   
-<!--
 <div align="center"> 
   
   ![Snake animation](https://github.com/4kauanmota/4kauanmota/blob/output/github-contribution-grid-snake.svg)
   
 </div>
--->
-  
