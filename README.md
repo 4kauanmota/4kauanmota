@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello, all well? I'm <a href=""><i>Kauan</i></a> 😃️</h1>
+  <h1 align="center">Hello, all well? I'm <a href="infinitycode.one/links/kauan/" target="_blank"><i>Kauan</i></a> 😃️</h1>
 </div>
 
 <div align="center">
