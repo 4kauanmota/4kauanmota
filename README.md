@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello, all well? I'm <a href="https://www.infinitycode.one/links/kauan/" target="_blank"><i>Kauan</i></a> 😃️</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=0891B2&center=true&vCenter=true&repeat=false&width=500&lines=Be+Welcome+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&pause=1000&color=0891B2&center=true&vCenter=true&repeat=false&width=846&lines=Be+Welcome+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
