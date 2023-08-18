@@ -1,5 +1,5 @@
 <div>
-  <h3>Hello, all well? I'm <a href="/" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)</h3>
+  <h3>Hello, all well? I'm <a href="" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)</h3>
   <a href="https://www.linkedin.com/in/4kauanmota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
   <a href="mailto:4kauanmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
