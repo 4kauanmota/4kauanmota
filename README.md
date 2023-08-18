@@ -31,6 +31,7 @@
   ![MYSQL](https://img.shields.io/badge/-MySQL-222?style=flat&logo=MYSQL)
   ![SQLWORKBENCH](https://img.shields.io/badge/-MySQL_Workbench-222?style=flat&logo=MYSQL)
   ![SQLITE](https://img.shields.io/badge/-Sqlite-222?style=flat&logo=SQLITE)
+  ![FIREBASE](https://img.shields.io/badge/-Firebase-222?style=flat&logo=FIREBASE)
   
   </div>
 
@@ -48,9 +49,10 @@
   <h4>Tools</h4>
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-222?style=flat&logo=FIGMA)
-  ![Trello](https://img.shields.io/badge/-Trello-222?style=flat&logo=TRELLO&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-222?style=flat&logo=POSTMAN)
+  ![VISUAL STUDIO](https://img.shields.io/badge/-Visual%20Studio-222?style=flat&logo=visual-studio&logoColor=9E559A)
+  ![FIGMA](https://img.shields.io/badge/-Figma-222?style=flat&logo=FIGMA)
+  ![TRELLO](https://img.shields.io/badge/-Trello-222?style=flat&logo=TRELLO&logoColor=007ACC)
+  ![POSTMAN](https://img.shields.io/badge/-Postman-222?style=flat&logo=POSTMAN)
   
   </div>
 </div>
