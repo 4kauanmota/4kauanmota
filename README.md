@@ -12,47 +12,47 @@
   <div>
   <h4>Applications</h4>
   
-  ![CSHARP](https://img.shields.io/badge/-C_Sharp-222?style=flat&logo=CSHARP&logoColor=9E559A)
-  ![DOTNETCORE](https://img.shields.io/badge/-.NET-222?style=flat&logo=DOTNET&logoColor=9E559A)
-  ![REACT](https://img.shields.io/badge/-React-222?style=flat&logo=REACT)
-  ![REACT NATIVE](https://img.shields.io/badge/-React_Native-222?style=flat&logo=REACT)
-  ![TYPESCRIPT](https://img.shields.io/badge/Typescript-222?style=flat&logo=TYPESCRIPT)
-  ![NODE.JS](https://img.shields.io/badge/Node.js-222?style=flat&logo=NODE.JS)
-  ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-222?style=flat&logo=JAVASCRIPT)
-  ![JAVA](https://img.shields.io/badge/-Java-222?style=flat&logo=OPENJDK)
-  ![HTML5](https://img.shields.io/badge/-HTML-222?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-222?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSHARP](https://img.shields.io/badge/-C_Sharp-fff?style=flat&logo=CSHARP&logoColor=9E559A)
+  ![DOTNETCORE](https://img.shields.io/badge/-.NET-fff?style=flat&logo=DOTNET&logoColor=9E559A)
+  ![REACT](https://img.shields.io/badge/-React-fff?style=flat&logo=REACT&logoColor=1e90ff)
+  ![REACT NATIVE](https://img.shields.io/badge/-React_Native-fff?style=flat&logo=REACT&logoColor=1e90ff)
+  ![TYPESCRIPT](https://img.shields.io/badge/Typescript-fff?style=flat&logo=TYPESCRIPT)
+  ![NODE.JS](https://img.shields.io/badge/Node.js-fff?style=flat&logo=NODE.JS)
+  ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-fff?style=flat&logo=JAVASCRIPT)
+  ![JAVA](https://img.shields.io/badge/-Java-fff?style=flat&logo=OPENJDK&logoColor=FF6C37)
+  ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=1572B6)
   
   </div>
 
   <div>
   <h4>Data</h4>
 
-  ![MYSQL](https://img.shields.io/badge/-MySQL-222?style=flat&logo=MYSQL)
-  ![SQLWORKBENCH](https://img.shields.io/badge/-MySQL_Workbench-222?style=flat&logo=MYSQL)
-  ![SQLITE](https://img.shields.io/badge/-Sqlite-222?style=flat&logo=SQLITE)
-  ![FIREBASE](https://img.shields.io/badge/-Firebase-222?style=flat&logo=FIREBASE)
+  ![MYSQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=MYSQL)
+  ![SQLWORKBENCH](https://img.shields.io/badge/-MySQL_Workbench-fff?style=flat&logo=MYSQL)
+  ![SQLITE](https://img.shields.io/badge/-Sqlite-fff?style=flat&logo=SQLITE&logoColor=000)
+  ![FIREBASE](https://img.shields.io/badge/-Firebase-fff?style=flat&logo=FIREBASE)
   
   </div>
 
   <div>
   <h4>DevOps</h4>
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=GIT)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GITHUB)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=DOCKER)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AMAZONAWS)
+  ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=GIT&logoColor=FF6C37)
+  ![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=GITHUB&logoColor=000)
+  ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=DOCKER)
+  ![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=AMAZONAWS&logoColor=FF6C37)
   
   </div>
 
   <div>
   <h4>Tools</h4>
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![VISUAL STUDIO](https://img.shields.io/badge/-Visual%20Studio-222?style=flat&logo=visual-studio&logoColor=9E559A)
-  ![FIGMA](https://img.shields.io/badge/-Figma-222?style=flat&logo=FIGMA)
-  ![TRELLO](https://img.shields.io/badge/-Trello-222?style=flat&logo=TRELLO&logoColor=007ACC)
-  ![POSTMAN](https://img.shields.io/badge/-Postman-222?style=flat&logo=POSTMAN)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![VISUAL STUDIO](https://img.shields.io/badge/-Visual%20Studio-fff?style=flat&logo=visual-studio&logoColor=9E559A)
+  ![FIGMA](https://img.shields.io/badge/-Figma-fff?style=flat&logo=FIGMA)
+  ![TRELLO](https://img.shields.io/badge/-Trello-fff?style=flat&logo=TRELLO&logoColor=007ACC)
+  ![POSTMAN](https://img.shields.io/badge/-Postman-fff?style=flat&logo=POSTMAN)
   
   </div>
 </div>
