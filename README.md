@@ -61,9 +61,10 @@
 
 <div>
   <h3>My statistics 🌈</h3>
+
   <div>
-    <a href="http://www.github.com/4kauanmota"><img align='left' valign='center' src="https://github-readme-stats.vercel.app/api?username=4kauanmota&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&show_icons=true" alt="4kauanmota's GitHub stats" /></a>
-    <a href="https://github.com/4kauanmota" align="left"><img align='center' valign='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=4kauanmota&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0a0e12&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most used languages" /></a>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </div>
 </div>
 
