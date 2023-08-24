@@ -38,7 +38,7 @@
   </div>
 
   <div>
-  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right'/>  
+  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-max-1mb.gif" width='150px' height='170px' align='right'/>  
     
   <h4>DevOps</h4>
 
