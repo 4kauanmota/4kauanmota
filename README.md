@@ -1,4 +1,4 @@
-<img src="https://pa1.aminoapps.com/6876/2d206527019e23ca88a5f708e5d68a43a5ff15d1r1-289-243_hq.gif" width='170px' height='120px' align='right' style="border-radius: 8px" />  
+<img src="https://pa1.aminoapps.com/6876/2d206527019e23ca88a5f708e5d68a43a5ff15d1r1-289-243_hq.gif" width='170px' height='120px' align='right'/>  
 
 <div>
   <h3>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)  </h3>
@@ -38,7 +38,8 @@
   </div>
 
   <div>
-  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right' style="border-radius: 8px" />  
+  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right'/>  
+    
   <h4>DevOps</h4>
 
   ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=GIT&logoColor=FF6C37)
@@ -118,6 +119,18 @@ Java                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 24/08/2023 16:53:26 UTC
 <!--END_SECTION:waka-->
+
+
+<img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='170px' height='170px' align='right' style="padding: 100px" />  
+
+**My love for** 
+
+```text
+Develop           In any language                         █████████████████████████   100 %
+Entertainment     Animes, series, movies, games, rpgs     █████████████████████████   100 %
+Exercices         Gym, volleyball, soccer                 █████████████████████████   100 % 
+```
+
 </div>
 
-<br>
+---
