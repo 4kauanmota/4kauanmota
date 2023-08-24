@@ -38,7 +38,7 @@
   </div>
 
   <div>
-  <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='120px' height='170px' align='right'/>  
+  <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='100px' height='170px' align='right'/>  
     
   <h4>DevOps</h4>
 
@@ -121,7 +121,7 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='170px' align='right' style="padding: 100px" />  
+<img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='140px' align='right' style="padding: 100px" />  
 
 **My love for** 
 
