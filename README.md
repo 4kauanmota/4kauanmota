@@ -36,6 +36,7 @@
   ![FIREBASE](https://img.shields.io/badge/-Firebase-fff?style=flat&logo=FIREBASE)
   
   </div>
+  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right' style="border-radius: 8px" />  
 
   <div>
   <h4>DevOps</h4>
