@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/fGCO6xcHGrUAAAAC/hunterpedia-hunter-x-hunter.gif" width='170px' height='120px' align='right' style="border-radius: 8px" />  
+<img src="https://pa1.aminoapps.com/6876/2d206527019e23ca88a5f708e5d68a43a5ff15d1r1-289-243_hq.gif" width='170px' height='120px' align='right' style="border-radius: 8px" />  
 
 <div>
   <h3>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)  </h3>
