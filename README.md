@@ -1,4 +1,4 @@
-<img src="https://pa1.aminoapps.com/6876/2d206527019e23ca88a5f708e5d68a43a5ff15d1r1-289-243_hq.gif" width='170px' height='120px' align='right'/>  
+<img src="https://media.tenor.com/i9Jb7TEwVqkAAAAi/hunter-x-hunter-hxh.gif" width='140px' height='120px' align='right'/>  
 
 <div>
   <h3>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)  </h3>
@@ -38,7 +38,7 @@
   </div>
 
   <div>
-  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-max-1mb.gif" width='150px' height='170px' align='right'/>  
+  <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='170px' height='170px' align='right'/>  
     
   <h4>DevOps</h4>
 
@@ -121,7 +121,7 @@ Java                     2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='170px' height='170px' align='right' style="padding: 100px" />  
+<img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='150px' height='150px' align='right' style="padding: 100px" />  
 
 **My love for** 
 
