@@ -132,5 +132,3 @@ Exercices         Gym, volleyball, soccer                 ███████�
 ```
 
 </div>
-
----
