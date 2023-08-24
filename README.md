@@ -63,10 +63,9 @@
 ---
 
 <div>
-  <h3>My statistics 🌈</h3>
+<h3>My statistics 🌈</h3>
 
-  <div>
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -142,7 +141,6 @@ Java                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 24/08/2023 16:45:46 UTC
 <!--END_SECTION:waka-->
-  </div>
 </div>
 
 <br>
