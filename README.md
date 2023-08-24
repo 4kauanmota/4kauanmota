@@ -36,9 +36,9 @@
   ![FIREBASE](https://img.shields.io/badge/-Firebase-fff?style=flat&logo=FIREBASE)
   
   </div>
-  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right' style="border-radius: 8px" />  
 
   <div>
+  <img src="https://thumbs.gfycat.com/HardHeavyKillifish-size_restricted.gif" width='150px' height='170px' align='right' style="border-radius: 8px" />  
   <h4>DevOps</h4>
 
   ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=GIT&logoColor=FF6C37)
