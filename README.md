@@ -58,9 +58,10 @@
 
 <div>
   <details>
-    <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left' style="padding: 100px" /> 
+    <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left'/> 
+    <br><br>
     <summary><h3>My statistics 🌈</h3></summary>
-    
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2034%20mins-blue)
 
