@@ -119,6 +119,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+  _Check out [my wakatime profile](https://wakatime.com/@4kauanmota) to see more stats_
   </details>
 
 </div>
