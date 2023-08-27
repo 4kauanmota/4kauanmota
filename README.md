@@ -14,11 +14,11 @@
   <details>
     <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='140px' height='170px' align='left' style='padding-right: 0'/>  
     <summary><h3>My skills 🪐</h3></summary>
-      <i>* Languages, Frameworks, Databases and DevOps are ordered by proficiency (highest to lowest)</i>
-      <div align='left'>
+      <div style="overflow-x:auto;">
+      <i>* Languages, Frameworks, DevOps and Data are ordered by proficiency (highest to lowest)</i>
         <h4>Applications</h4>
         <table>
-          <tr style="overflow: auto">
+          <tr>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
               <br>JavaScript<br>
@@ -29,52 +29,24 @@
             </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-              <br>CSS<br>
+              <br>&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;<br>
             </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-              <br>HTML<br>
+              <br>&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;<br>
             </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
               <br>Sass<br>
             </td>
-            <td align="center">
+            <td align="center" width="48">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-              <br>C#<br>
+              <br>&nbsp;&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;&nbsp;<br>
             </td>
             <td align="center">
               <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
               <br>WebAssembly<br>
-            </td>
-                        <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-              <br>JavaScript<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-              <br>TypeScript<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-              <br>CSS<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-              <br>HTML<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-              <br>Sass<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-              <br>C#<br>
-            </td>
-            <td align="center">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
-              <br>WebAssembly<br>
-            </td>
+            </td>  
           </tr>
         </table>
         <h4>Frameworks and Libraries</h4>
@@ -98,24 +70,66 @@
             </td>
           </tr>
         </table>
+        <h4>DevOps</h4>
+        <table>
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+              <br>Git<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+              <br>GitHub<br>
+            </td>
+            <td align="center">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+              <br>AWS<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+              <br>Docker<br>
+            </td>
+          </tr>
+        </table>
         <h4>Data</h4>
         <table>
           <tr>
             <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-              <br>React Native<br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+              <br>MySQL<br>
             </td>
             <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-              <br>React<br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+              <br>Firebase<br>
             </td>
             <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-              <br>Node.js<br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="Sqlite" />
+              <br>Sqlite<br>
+            </td>
+          </tr>
+        </table>
+        <h4>Tools</h4>
+        <table>
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
+              <br>Visual Studio Code<br>
             </td>
             <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-              <br>.NET<br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+              <br>Visual Studio<br>
+            </td>
+            <td align="center">
+              <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
+              <br>Postman<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+              <br>Trello<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+              <br>Figma<br>
             </td>
           </tr>
         </table>
