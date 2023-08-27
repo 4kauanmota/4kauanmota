@@ -54,8 +54,6 @@
   </details>
 </div>
 
-<br>
-
 <div>
   <details>
     <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left'/> 
