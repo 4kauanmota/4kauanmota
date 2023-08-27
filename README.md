@@ -37,7 +37,7 @@
             </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-              <br>Sass<br>
+              <br>&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;<br>
             </td>
             <td align="center" width="48">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
@@ -140,7 +140,7 @@
 <div>
   <details>
     <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left'/> 
-    <br><br>
+    <br>
     <summary><h3>My statistics 🌈</h3></summary>
 
 <!--START_SECTION:waka-->
