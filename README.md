@@ -17,8 +17,8 @@
       <i>* Languages, Frameworks, Databases and DevOps are ordered by proficiency (highest to lowest)</i>
       <div align='left'>
         <h4>Applications</h4>
-        <table border="0" cellspacing="0" rules="none">
-          <tr>
+        <table>
+          <tr style="overflow: auto">
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
               <br>JavaScript<br>
@@ -35,8 +35,34 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
               <br>HTML<br>
             </td>
-          </tr>
-          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+              <br>Sass<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+              <br>C#<br>
+            </td>
+            <td align="center">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
+              <br>WebAssembly<br>
+            </td>
+                        <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+              <br>JavaScript<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+              <br>TypeScript<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+              <br>CSS<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+              <br>HTML<br>
+            </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
               <br>Sass<br>
