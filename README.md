@@ -140,7 +140,7 @@
 <div>
   <details>
     <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left'/> 
-    <br>
+    <br><br>
     <summary><h3>My statistics 🌈</h3></summary>
 
 <!--START_SECTION:waka-->
