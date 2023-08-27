@@ -12,7 +12,7 @@
 
 <div>
   <details>
-    <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='140px' height='170px' align='left'/>  
+    <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='140px' height='170px' align='left' style='padding-right: 0'/>  
     <summary><h3>My skills 🪐</h3></summary>
       <i>* Languages, Frameworks, Databases and DevOps are ordered by proficiency (highest to lowest)</i>
       <div align='left'>
