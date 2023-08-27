@@ -14,42 +14,85 @@
   <details>
     <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='140px' height='170px' align='left'/>  
     <summary><h3>My skills 🪐</h3></summary>
-      <div>
+      <i>* Languages, Frameworks, Databases and DevOps are ordered by proficiency (highest to lowest)</i>
+      <div align='left'>
         <h4>Applications</h4>
-        
-  ![CSHARP](https://img.shields.io/badge/-C_Sharp-fff?style=flat&logo=CSHARP&logoColor=9E559A)
-        ![DOTNETCORE](https://img.shields.io/badge/-.NET-fff?style=flat&logo=DOTNET&logoColor=9E559A)
-        ![REACT](https://img.shields.io/badge/-React-fff?style=flat&logo=REACT&logoColor=1e90ff)
-        ![REACT NATIVE](https://img.shields.io/badge/-React_Native-fff?style=flat&logo=REACT&logoColor=1e90ff)
-        ![TYPESCRIPT](https://img.shields.io/badge/Typescript-fff?style=flat&logo=TYPESCRIPT)
-        ![NODE.JS](https://img.shields.io/badge/Node.js-fff?style=flat&logo=NODE.JS)
-        ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-fff?style=flat&logo=JAVASCRIPT)
-        ![WEBASSEMBLY](https://img.shields.io/badge/-WebAssembly-fff?style=flat&logo=WEBASSEMBLY)
-        ![HTML5](https://img.shields.io/badge/-HTML-fff?style=flat&logo=HTML5)
-        ![CSS](https://img.shields.io/badge/-CSS-fff?style=flat&logo=CSS3&logoColor=1572B6)
-        ![SASS](https://img.shields.io/badge/-Sass-fff?style=flat&logo=SASS)
-      </div>
-      <div>
+        <table border="0" cellspacing="0" rules="none">
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+              <br>JavaScript<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+              <br>TypeScript<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+              <br>CSS<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+              <br>HTML<br>
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
+              <br>Sass<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+              <br>C#<br>
+            </td>
+            <td align="center">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
+              <br>WebAssembly<br>
+            </td>
+          </tr>
+        </table>
+        <h4>Frameworks and Libraries</h4>
+        <table>
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+              <br>React Native<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+              <br>React<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+              <br>Node.js<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
+              <br>.NET<br>
+            </td>
+          </tr>
+        </table>
         <h4>Data</h4>
-        ![MYSQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=MYSQL)
-        ![SQLWORKBENCH](https://img.shields.io/badge/-MySQL_Workbench-fff?style=flat&logo=MYSQL)
-        ![SQLITE](https://img.shields.io/badge/-Sqlite-fff?style=flat&logo=SQLITE&logoColor=000)
-        ![FIREBASE](https://img.shields.io/badge/-Firebase-fff?style=flat&logo=FIREBASE)
-      </div>
-      <div>
-        <h4>DevOps</h4>
-        ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=GIT&logoColor=FF6C37)
-        ![GitHub](https://img.shields.io/badge/-GitHub-fff?style=flat&logo=GITHUB&logoColor=000)
-        ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=DOCKER)
-        ![AWS](https://img.shields.io/badge/-AWS-fff?style=flat&logo=AMAZONAWS&logoColor=FF6C37)
-      </div>
-      <div>
-        <h4>Tools</h4>
-        ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-fff?style=flat&logo=visual-studio-code&logoColor=007ACC)
-        ![VISUAL STUDIO](https://img.shields.io/badge/-Visual%20Studio-fff?style=flat&logo=visual-studio&logoColor=9E559A)
-        ![FIGMA](https://img.shields.io/badge/-Figma-fff?style=flat&logo=FIGMA)
-        ![TRELLO](https://img.shields.io/badge/-Trello-fff?style=flat&logo=TRELLO&logoColor=007ACC)
-        ![POSTMAN](https://img.shields.io/badge/-Postman-fff?style=flat&logo=POSTMAN)
+        <table>
+          <tr>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+              <br>React Native<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+              <br>React<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+              <br>Node.js<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
+              <br>.NET<br>
+            </td>
+          </tr>
+        </table>
       </div>
   </details>
 </div>
