@@ -1,5 +1,5 @@
 <div>
-  <details>
+  <details open>
     <img src="https://media.tenor.com/i9Jb7TEwVqkAAAAi/hunter-x-hunter-hxh.gif" width='140px' height='120px' align='left'/>  
     <summary><h3>About me 🌍</h3></summary>
     <h4>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)  </h4>
