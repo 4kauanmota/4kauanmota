@@ -143,7 +143,7 @@
 
 <div>
   <details>
-    <img src="https://media.tenor.com/rsxJO9Lif5oAAAAi/alluka-hxh.gif" width='140px' height='120px' align='left'/> 
+    <img src="https://i.postimg.cc/MTnxtmMR/ezgif-5-5b067d5716.gif" width='140px' height='120px' align='left'/> 
     <br><br>
     <summary><h3>My statistics 🌈</h3></summary>
 
