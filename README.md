@@ -61,6 +61,10 @@
               <br>React<br>
             </td>
             <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+              <br>Jest<br>
+            </td>
+            <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
               <br>Node.js<br>
             </td>
