@@ -177,15 +177,13 @@ Sunday                   97 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 12 mins        ████████████████████████░   95.70 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
