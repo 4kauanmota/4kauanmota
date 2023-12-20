@@ -40,8 +40,8 @@
               <br>&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;<br>
             </td>
             <td align="center" width="48">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-              <br>&nbsp;&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;&nbsp;<br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+              <br>&nbsp;&nbsp;Python&nbsp;&nbsp;<br>
             </td>
             <td align="center">
               <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
@@ -67,10 +67,6 @@
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
               <br>Node.js<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-              <br>.NET<br>
             </td>
           </tr>
         </table>
