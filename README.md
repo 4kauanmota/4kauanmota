@@ -2,7 +2,7 @@
   <details open>
     <img src="https://media.tenor.com/i9Jb7TEwVqkAAAAi/hunter-x-hunter-hxh.gif" width='140px' height='120px' align='left'/>  
     <summary><h3>About me 🌍</h3></summary>
-    <h4>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 19 and i love every piece of code i develop :)  </h4>
+    <h4>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 20 and i love every piece of code i develop :)  </h4>
     <a href="https://www.linkedin.com/in/4kauanmota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
     <a href="mailto:4kauanmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </details>
