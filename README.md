@@ -1,7 +1,7 @@
 <div>
   <details open>
     <img src="https://media.tenor.com/i9Jb7TEwVqkAAAAi/hunter-x-hunter-hxh.gif" width='140px' height='120px' align='left'/>  
-    <summary>About me 🌍</summary>
+    <summary><b>About me 🌍</b></summary>
     <h4>Hello, all well? I'm <a href="https://github.com/4kauanmota" target="_blank"><i>Kauan</i></a>. In short, i'm 20 and i love every piece of code i develop :)  </h4>
     <a href="https://www.linkedin.com/in/4kauanmota/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" target="_blank"></a>
     <a href="mailto:4kauanmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,11 +9,12 @@
 </div>
 
 <br>
+<br>
 
 <div>
   <details>
     <img src="https://i.postimg.cc/2yJZXjD6/200w-unscreen.gif" width='140px' height='170px' align='left' style='padding-right: 0'/>  
-    <summary>My skills 🪐</summary>
+    <summary><b>My skills 🪐</b></summary>
       <div style="overflow-x:auto;">
       <i>* Languages, Frameworks, DevOps and Data are ordered by proficiency (highest to lowest)</i>
         <h4>Applications</h4>
@@ -137,11 +138,13 @@
   </details>
 </div>
 
+<br>
+
 <div>
   <details>
     <img src="https://i.postimg.cc/MTnxtmMR/ezgif-5-5b067d5716.gif" width='140px' height='120px' align='left'/> 
     <br><br>
-    <summary>My statistics 🌈</summary>
+    <summary><b>My statistics 🌈</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-243%20hrs%2052%20mins-blue)
