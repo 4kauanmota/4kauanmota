@@ -147,7 +147,7 @@
     <summary><b>My statistics 🌈</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -176,14 +176,13 @@ Sunday                   111 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   21 mins             ████████████████████████░   96.42 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
