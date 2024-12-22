@@ -21,12 +21,12 @@
         <table>
           <tr>
             <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-              <br>JavaScript<br>
-            </td>
-            <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
               <br>TypeScript<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+              <br>JavaScript<br>
             </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
@@ -53,6 +53,18 @@
         <h4>Frameworks and Libraries</h4>
         <table>
           <tr>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="React Native" />
+              <br>Vue<br>
+            </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="React Native" />
+              <br>Nuxt<br>
+            </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="48" height="48" alt="React Native" />
+              <br>Vuetify<br>
+            </td>
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
               <br>React Native<br>
