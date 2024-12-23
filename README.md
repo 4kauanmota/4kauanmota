@@ -44,10 +44,6 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
               <br>&nbsp;&nbsp;Python&nbsp;&nbsp;<br>
             </td>
-            <td align="center">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" width="48" height="48" alt="WebAssembly" />
-              <br>WebAssembly<br>
-            </td>  
           </tr>
         </table>
         <h4>Frameworks and Libraries</h4>
@@ -60,6 +56,10 @@
             <td align="center">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="React Native" />
               <br>Nuxt<br>
+            </td>
+            <td align="center">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+              <br>Node.js<br>
             </td>
             <td align="center">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" width="48" height="48" alt="React Native" />
@@ -76,10 +76,6 @@
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
               <br>Jest<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-              <br>Node.js<br>
             </td>
           </tr>
         </table>
@@ -127,10 +123,6 @@
             <td align="center">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
               <br>Visual Studio Code<br>
-            </td>
-            <td align="center">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-              <br>Visual Studio<br>
             </td>
             <td align="center">
               <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
