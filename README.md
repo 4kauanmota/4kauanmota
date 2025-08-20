@@ -151,7 +151,7 @@
     <summary><b>My statistics 🌈</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -180,15 +180,13 @@ Sunday                   129 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 21 mins       █████████████████████████   100.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    5 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GodotEngine              4 hrs 21 mins       █████████████████████████   100.00 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GodotEngine              5 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
