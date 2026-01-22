@@ -180,13 +180,13 @@ Sunday                   129 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GodotEngine              29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
