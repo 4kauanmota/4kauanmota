@@ -155,6 +155,40 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                190 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+🌆 Daytime                1088 commits        ███████████░░░░░░░░░░░░░░   44.41 % 
+🌃 Evening                706 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌙 Night                  466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Tuesday                  395 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                481 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Thursday                 338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Friday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Saturday                 242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
